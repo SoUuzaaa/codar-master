@@ -13,7 +13,7 @@
 
 ### Resultado:
 
-![previa](C:\codar-master\assets\previa.gif)
+![previa](https://github.com/SoUuzaaa/codar-master/blob/master/assets/previa.gif)
 
 
 
